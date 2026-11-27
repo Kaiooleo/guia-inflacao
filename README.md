@@ -1,6 +1,6 @@
 # Guia de introdução à inflação
 
-Este guia é uma introdução curta à inflação para quem está começando em Economia ou só quer entender melhor por que as coisas ficam mais caras com o tempo.
+Este guia é uma introdução à inflação para estudantes de Economia e para quem quer entender por que os preços sobem.
 
 A ideia surgiu porque inflação aparece em quase toda disciplina do curso, mas muita gente (eu incluído, no começo) decora a definição sem entender direito como ela é medida ou por que o Banco Central mexe nos juros por causa dela.
 
