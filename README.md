@@ -1,8 +1,8 @@
 # Guia de introdução à inflação
 
-Este guia é uma introdução à inflação para estudantes de Economia e para quem quer entender por que os preços sobem.
+Este guia apresenta, de forma simples, o que é inflação e como ela afeta o dia a dia, pensado para estudantes de Economia e para quem quer entender por que os preços sobem.
 
-A ideia surgiu porque inflação aparece em quase toda disciplina do curso, mas muita gente (eu incluído, no começo) decora a definição sem entender direito como ela é medida ou por que o Banco Central mexe nos juros por causa dela.
+A ideia surgiu porque inflação aparece em quase toda disciplina do curso, mas muita gente (inclusive eu, no começo) decora a definição sem entender direito como ela é medida ou por que o Banco Central mexe nos juros por causa dela.
 
 ## Objetivo
 
